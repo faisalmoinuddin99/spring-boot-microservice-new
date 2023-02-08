@@ -1,0 +1,8 @@
+com/kakashi/orderservice/dto/OrderLineItemsDto.class
+com/kakashi/orderservice/dto/OrderRequest.class
+com/kakashi/orderservice/OrderServiceApplication.class
+com/kakashi/orderservice/service/OrderService.class
+com/kakashi/orderservice/model/Order.class
+com/kakashi/orderservice/repository/OrderRepository.class
+com/kakashi/orderservice/controller/OrderController.class
+com/kakashi/orderservice/model/OrderLineItems.class

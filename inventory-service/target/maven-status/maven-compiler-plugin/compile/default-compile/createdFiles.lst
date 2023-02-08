@@ -1,0 +1,5 @@
+com/kakashi/inventoryservice/service/InventoryService.class
+com/kakashi/inventoryservice/model/Inventory.class
+com/kakashi/inventoryservice/InventoryServiceApplication.class
+com/kakashi/inventoryservice/repository/InventoryRepository.class
+com/kakashi/inventoryservice/controller/InventoryController.class

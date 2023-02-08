@@ -1,0 +1,10 @@
+com/kakashi/productservice/dto/ProductResponse$ProductResponseBuilder.class
+com/kakashi/productservice/dto/ProductResponse.class
+com/kakashi/productservice/repository/ProductRepository.class
+com/kakashi/productservice/dto/ProductRequest$ProductRequestBuilder.class
+com/kakashi/productservice/models/Product.class
+com/kakashi/productservice/ProductServiceApplication.class
+com/kakashi/productservice/dto/ProductRequest.class
+com/kakashi/productservice/services/ProductService.class
+com/kakashi/productservice/models/Product$ProductBuilder.class
+com/kakashi/productservice/contollers/ProductController.class

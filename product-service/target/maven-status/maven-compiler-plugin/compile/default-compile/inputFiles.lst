@@ -1,0 +1,7 @@
+/home/kakashi/Desktop/microservice-new/product-service/src/main/java/com/kakashi/productservice/models/Product.java
+/home/kakashi/Desktop/microservice-new/product-service/src/main/java/com/kakashi/productservice/dto/ProductResponse.java
+/home/kakashi/Desktop/microservice-new/product-service/src/main/java/com/kakashi/productservice/ProductServiceApplication.java
+/home/kakashi/Desktop/microservice-new/product-service/src/main/java/com/kakashi/productservice/contollers/ProductController.java
+/home/kakashi/Desktop/microservice-new/product-service/src/main/java/com/kakashi/productservice/dto/ProductRequest.java
+/home/kakashi/Desktop/microservice-new/product-service/src/main/java/com/kakashi/productservice/services/ProductService.java
+/home/kakashi/Desktop/microservice-new/product-service/src/main/java/com/kakashi/productservice/repository/ProductRepository.java
